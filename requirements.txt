@@ -1,0 +1,20 @@
+# For image related ops
+pillow
+
+# For math compute
+numpy
+
+# For data manipulation
+pandas
+
+# For modelling
+torch
+transformers==4.38.2
+accelerate==0.21.0
+datasets==2.18.0
+pytorch-lightning==2.2.1
+
+# For API development and deployment
+fastapi
+python-multipart
+uvicorn
